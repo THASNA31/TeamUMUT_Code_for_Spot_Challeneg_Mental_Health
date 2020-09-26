@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\tanzi",
+  "password": false,
+  "pid": 8380,
+  "port": 8888,
+  "secure": false,
+  "token": "baaa7b3f0c53f094b78a8f6b48ac9d3aab10db1db22b5558",
+  "url": "http://localhost:8888/"
+}
